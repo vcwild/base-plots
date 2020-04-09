@@ -1,4 +1,4 @@
-Exploratory Data Analysis
+Base-Plots Exploratory Data Analysis
 ================
 > This is an exploratory data analysis on individual household electric
 > power consumption by using the [UC Irvine Machine Learning
