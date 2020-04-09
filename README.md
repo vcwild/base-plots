@@ -13,9 +13,9 @@ Base-Plots Exploratory Data Analysis
 
   - **raw data set**: [Individual household electric power
     consumption](http://archive.ics.uci.edu/ml/datasets/Individual+household+electric+power+consumption)
-  - **CODEBOOK.md**: step-by-step on how to get from the raw data to the
+  - **[CODEBOOK.md](https://github.com/vcwild/base-plots/blob/master/CODEBOOK.md)**: step-by-step on how to get from the raw data to the
     tidy data set.
-  - **analysis.R**: a script able to process and clean the raw data into a
+  - **[analysis.R](https://github.com/vcwild/base-plots/blob/master/analysis.R)**: a script able to process and clean the raw data into a
     fine tidy data set
   - **plotn.R**: the scripts that plot the graphs
 
