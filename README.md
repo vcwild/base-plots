@@ -17,7 +17,7 @@ Base-Plots Exploratory Data Analysis
     tidy data set.
   - **[analysis.R](https://github.com/vcwild/base-plots/blob/master/analysis.R)**: a script able to process and clean the raw data into a
     fine tidy data set
-  - **plotn.R**: the scripts that plot the graphs
+  - **plotn.R**: the scripts that produces the plots in _images_ folder
 
 ### Note
 
